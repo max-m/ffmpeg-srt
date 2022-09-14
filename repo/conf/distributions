@@ -1,0 +1,7 @@
+Description: max-m/ffmpeg-srt
+Codename: focal
+Architectures: amd64
+Components: main
+SignWith: B3EEBABB084F29AF365B11257E966F798BA66C57
+
+

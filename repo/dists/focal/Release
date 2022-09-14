@@ -1,0 +1,17 @@
+Codename: focal
+Date: Wed, 14 Sep 2022 20:51:07 UTC
+Architectures: amd64
+Components: main
+Description: max-m/ffmpeg-srt
+MD5Sum:
+ 1c27948c004fdb3354ee71662a4207a0 39700 main/binary-amd64/Packages
+ b4fabd5187ae9bab53f58841eddb3b12 6947 main/binary-amd64/Packages.gz
+ 1f3236aac20130e6e6a6d2855b4327f4 66 main/binary-amd64/Release
+SHA1:
+ 09e850fb819a49c5a1dd1bf4b646a85dcc98c798 39700 main/binary-amd64/Packages
+ 23901d3246a28742af992ebc7d02a9472ae7460d 6947 main/binary-amd64/Packages.gz
+ fbb2432041c0367b662a4077b71a7a1794ee2c18 66 main/binary-amd64/Release
+SHA256:
+ 477ec7bd6a3c3b80cde61f6e653bbe6764e881d7ed406b57df07eb41b1a55469 39700 main/binary-amd64/Packages
+ b258d23dd396537ecf9a4aa87c4d76213009b4a08c27091eb0415d43367543b2 6947 main/binary-amd64/Packages.gz
+ 63952f5996a0b5d9aa4a70f2b9cb69600572ef1479bb5b7500e8cc9ae71a299b 66 main/binary-amd64/Release
