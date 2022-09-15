@@ -5,8 +5,8 @@ on:
   push:
     branches:
       - ci
-    schedule:
-      - cron: '0 2 * * *'
+  schedule:
+    - cron: '0 2 * * *'
 
 jobs:
   build:
